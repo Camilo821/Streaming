@@ -46,7 +46,7 @@ header nav a.activo{
     font-size: 16px;
     min-height: 40.62em;
     color: #ffffff;
-    background:linear-gradient(rgba(0, 0, 0, .50),rgba(0, 0, 0, .50)), url(../img/Peliculas/backdrop.jpg);
+    background:linear-gradient(rgba(0, 0, 0, .50),rgba(0, 0, 0, .50)), url(https://i.ibb.co/1MXr4VT/backdrop.jpg);
     background-position: center center;
     background-size: cover;
     margin-bottom: 3.12em;
