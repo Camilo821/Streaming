@@ -18,7 +18,7 @@
 ### [Inicio](https://camilo821.github.io/Streaming/ "Inicio")
 Tendrás algunas sugerencias de peliculas y series recomendadas y como pelicula principal Interestelar
 ### [Programas](https://camilo821.github.io/Streaming/Programas.html "Programas")
-Encontrarás sugerencias de serias y programas de TV que te podrían gustar entre ellas: Dagon Ball,La asa De Papel,Iron Fist, Dark,etc... seguro te gustarán
+Encontrarás sugerencias de serias y programas de TV que te podrían gustar entre ellas: Dagon Ball,La Casa De Papel,Iron Fist, Dark,etc... seguro te gustarán
 
 >Hasta ahora tenemos esto el resto esta en progreso
 
