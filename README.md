@@ -1,4 +1,3 @@
-![icono](https://i.ibb.co/fdkyv00/icono.png "icono")
 # Streaming +
 >Es un proyecto para una pagina de streaming con muchas sugerencias de series y peliculas
 
